@@ -1,0 +1,15 @@
+#1
+
+num1 = int(input("please enter number"))
+for i in range(1,num1+1):
+    if(i % 5==0):
+        print("bingo")
+    else:
+        print(i)
+
+    
+
+
+
+
+
